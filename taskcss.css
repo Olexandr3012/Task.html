@@ -1,0 +1,30 @@
+.box {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+
+}
+
+
+.border-elements {
+    border-radius: 200px;
+}
+
+.border-elements-icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+
+.push{
+    justify-content: space-between;
+    margin-left: auto;
+    width: 200px;
+}
+
+#wraper{
+    display: flex;
+    flex-wrap: wrap;
+
+}
